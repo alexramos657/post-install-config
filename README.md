@@ -4,7 +4,7 @@
 
 <h1>osTicket - Post-Install Configuration</h1>
 
-This project outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.
+This project outlines the post-install configuration of the open-source help desk ticketing system osTicket.
 
 <h2>Environments and Technologies Used</h2>
 
