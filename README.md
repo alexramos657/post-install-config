@@ -85,23 +85,23 @@ Create one more agent as done previously, the only difference is in the "Access"
 <br />
 Next, to create a user (the customers) switch to the "Agent Panel" in orange in the top right> Users> Add User and put an email and name, then create. (I also made one more user with the same steps taken here):  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/FQOdLSU.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Configuring an SLA plan navigate back to Admin Panel> Manage> SLA create three SLAs with different severities, grace periods, and schedules like so:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/qMblbdb.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/vCjomRX.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/f5sVdME.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Under the same "Manage" tab go to the "Help Topics" tab and create four help topics named, "Business Critical Outage", "Personal Computer Issues", "Equipment Request", and "Password Reset" all with the same settings like so: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/rat1MtH.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 
