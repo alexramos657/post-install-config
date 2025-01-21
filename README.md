@@ -62,17 +62,17 @@ To create agents (the help desk workers) navigate back to the "Agents" tab and s
 <br />
 Next to the username click "Set Password" set the password. Uncheck the "Send the agent a password reset email" and "Require password change at next login" options: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/P7YgbCC.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 On the "Access" tab for this user select the "System Administrators" department and the "Supreme Admin" role created earlier:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/7NSJzyQ.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Under the "Teams" tab select "Level II Support" for this agent:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/14fFuRs.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Create one more agent as done previously, the only difference is in the "Access" tab select "Support" for the department:  
