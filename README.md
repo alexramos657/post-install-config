@@ -27,17 +27,17 @@ This project is a continuation of the [osTicket: Prerequisites and Installation]
 
 With osTicket open navigate to the Admin Panel by clicking "Admin Panel" located in orange at the top right of the page:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/wdcPdf7.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 To start configuring Roles Navigate to the "Agents" tab and click on "Roles" underneath the "Agents" tab. Enter a role name:
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/AC7FZB2.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 In the "Permissions" tab of this role, give this role all permissions in "Tickets", "Tasks", and "Knowledgebase". This will be our "Supreme Admin" Role:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/KW8pccG.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 To set up departments, while still in the "Agents" tab, click on "Departments" located just below the "Agents" tab. Name the department "System Administrators" and create the Department:  
