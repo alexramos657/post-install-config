@@ -42,22 +42,22 @@ In the "Permissions" tab of this role, give this role all permissions in "Ticket
 <br />
 To set up departments, while still in the "Agents" tab, click on "Departments" located just below the "Agents" tab. Name the department "System Administrators" and create the Department:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/0Pd9vIu.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Next, create a team by selecting the "Teams" tab, while still in the "Agents" tab. Then, name the team "Level II Support" and create team: 
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/D637G96.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Now, to allow anyone to create tickets, go to the "Settings" Tab, and under "Authentication Settings" make sure that "Require registration and login to create tickets" is unchecked:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/FLwdNre.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 To create agents (the help desk workers) navigate back to the "Agents" tab and select "Agents" and fill out the name, email, and username:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/etCEhHq.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Next to the username click "Set Password" set the password. Uncheck the "Send the agent a password reset email" and "Require password change at next login" options: 
