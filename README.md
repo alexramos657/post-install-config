@@ -77,10 +77,10 @@ Under the "Teams" tab select "Level II Support" for this agent:
 <br />
 Create one more agent as done previously, the only difference is in the "Access" tab select "Support" for the department:  
 </p>
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/GgmK7dz.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
-<img src="" height="80%" width="80%" alt="Setting Up in Azure"/>
+<img src="https://i.imgur.com/cSZIgLD.png" height="80%" width="80%" alt="Setting Up in Azure"/>
 <br />
 <br />
 Next, to create a user (the customers) switch to the "Agent Panel" in orange in the top right> Users> Add User and put an email and name, then create. (I also made one more user with the same steps taken here):  
